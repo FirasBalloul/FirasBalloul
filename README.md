@@ -27,8 +27,6 @@ I'm a Senior **AI & Data Science** student at **Hussein Technical University (HT
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FirasBalloul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FirasBalloul&icon=0&color=4)](https://visitcount.itsvg.in)
