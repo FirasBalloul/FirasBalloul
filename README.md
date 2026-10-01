@@ -1,8 +1,7 @@
 # 💫 About Me:
 I'm a Senior **AI & Data Science** student at **Hussein Technical University (HTU)**. I am passionate about bridging the gap between raw data and intelligent decision-making systems.
 
-- 🎓 **Education:** 4th Year Undergraduate majoring in **Artificial Intelligence & Data Science**.
-- 🔭 **I’m currently working on:** An intelligent **Web Scraping & Aggregation Engine** tailored for high-volume E-commerce and News platforms.
+- 🎓 **Education:** Graduate in **Artificial Intelligence & Data Science**.
 - 🌱 **I’m currently exploring:** **Large Language Models (LLMs)**, **RAG Pipelines**, and **Autonomous AI Agents**.
 - 🧠 **Core Interests:**
   - Natural Language Processing (NLP)
